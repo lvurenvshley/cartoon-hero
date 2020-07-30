@@ -14,6 +14,9 @@ header {
 h1, h2 {
 	font-family: 'Oswald', sans-serif;
 }
+
+/*header styles */
+/*write your comments here*/
 header h1{
 	color: white;
 	font-size: 65px;
@@ -23,6 +26,7 @@ header img{
 	border-radius: 900px;
 	width: 300px;
 	border: 10px solid yellow;
+	box-shadow: 3px 5px 20px white;
 }
 
 main {
@@ -39,6 +43,10 @@ h2{
 	font-size: 35px;
 	color: #C6A70E;
 	margin: 40px 0px 10px;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	padding: 0px 0px 5px 5px;
+	letter-spacing: 2px; 
 }
 
 a{
